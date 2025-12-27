@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1765158691835,"sparkVersion":"3.5.7","uid":"VectorAssembler_1d435661ef91","paramMap":{"outputCol":"features","inputCols":["Store","Temperature","Fuel_Price","CPI","Unemployment","IsHoliday","Dept"]},"defaultParamMap":{"outputCol":"VectorAssembler_1d435661ef91__output","handleInvalid":"error"}}
